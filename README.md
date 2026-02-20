@@ -201,7 +201,7 @@ nykaa-product-analytics/
 
 ## 📈 Dashboard Features
 
-![Nykaa Product Analytics Dashboard](screenshot_dashboard.png)
+![Nykaa Product Analytics Dashboard](nykaa_dashboard.png)
 
 **Interactive Controls:**
 - **Rating Filter:** Focus on high/low performing products
