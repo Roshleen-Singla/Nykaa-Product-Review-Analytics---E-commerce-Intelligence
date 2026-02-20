@@ -1,0 +1,167 @@
+Product_Category,avg_rating,total_reviews,brand,avg_price,product_count
+Mom > Baby > Baby Care > Baby Oil,5.0,0.0,Tjori,449.0,1
+Men's Store > Fragrance > Deodorants/Roll-ons,5.0,1.0,Spinz,200.0,1
+Health > Wellness > Sports Nutrition > Post Workout,5.0,0.0,Olena,2499.0,1
+Health > Wellness > Shop By Concern > Immunity,5.0,0.0,MuscleBlaze,337.0,1
+Health > Wellness > Good for You > Green Tea,5.0,0.0,Tea Treasure,269.0,1
+Personal Care > Bath > Shower > Soaps,5.0,1.0,L'Occitane,580.0,1
+Health & Wellness > Health Supplements > Multivitamins,5.0,0.0,Carbamide Forte,,1
+Hair > Shop By Hair Type > Straight,5.0,0.0,CADIVEU,7000.0,1
+Men's Store > Shop By Concern > Anti Acne,5.0,10.0,Red Hunt,197.5,2
+Health > Wellness > Weight Management > Weight Gain,4.9,0.0,Plix,1680.0,2
+Nykaa Luxe > Fragrance > Colognes,4.9,4.0,HERM,5050.0,1
+Fragrance > Men > Perfumes (EDT > EDP),4.87,10.0,Montblanc,4416.33,3
+Skin > Cleansers > Face Wash,4.82,651.0,Niconi,91.5,4
+Nykaa Luxe > Makeup > Face > Bronzer,4.8,40.0,Huda Beauty,2125.0,1
+Natural > Hair > Conditioner,4.77,20.0,Jiva Ayurveda,445.0,3
+Skin > Masks > Sheet Masks,4.75,3527.0,TONYMOLY,239.0,2
+Nykaa Luxe > Fragrance > Perfumes (EDP/EDT),4.72,6.0,Guerlain,3952.5,4
+Hair > Tools > Accessories > Hair Brushes,4.7,11.0,Aveda,2050.0,1
+Nykaa Luxe > Fragrance > Perfumes (EDP & EDT),4.7,5.0,Versace,3131.5,2
+Nykaa Luxe > Skin > Face > Cleanser,4.65,11.0,Bobbi Brown,1070.0,2
+Natural > Body Care > Body Lotions,4.63,92.0,Nature's Essence,173.33,3
+Nykaa Luxe > Makeup > Lips > Lipstick,4.6,53.0,Charlotte Tilbury,3150.0,1
+Makeup > Tools & Brushes > Tweezers,4.6,0.0,Colorbar,225.0,1
+Men's Store > Shaving > Aftershave Lotion,4.6,22.0,Axe,125.0,1
+Nykaa Luxe > Skin > Face > Moisturisers,4.6,129.0,Clinique,1995.0,2
+Health > Wellness > Shop By Concern > Bones > Joints,4.6,1.0,MuscleBlaze,1157.5,2
+Natural > Shop By Concern > Dry > Frizzy Hair,4.55,139.0,Aveda,520.0,2
+Brand > Lotus Herbals,4.55,152.0,Lotus Herbals,142.0,2
+Makeup > Face > BB > CC Cream,4.5,13.0,Bobbi Brown,7900.0,1
+Nykaa Luxe > Shop by Concern > Anti-Ageing,4.5,84.0,Sulwhasoo,1665.0,1
+Brand > Nivea,4.5,1220.0,Nivea,260.0,1
+Nykaa Luxe > Makeup > Palettes > Eye Palette,4.5,140.0,M.A.C,3700.0,1
+Fragrance > Gifts > Nykaa,4.5,1.0,PRADA,2707.5,2
+Mom > Baby > Baby Care > Wipes > Buds,4.5,80.0,Himalaya,44.0,1
+Makeup > Eyes > Mascara,4.5,265.0,Too Faced,1050.0,1
+Fragrance > Women > Perfumes (EDT & EDP),4.5,2.0,Burberry,4052.5,2
+Makeup > Tools & Brushes > Eye Brush,4.5,0.0,Wet n Wild,599.0,1
+Skin > Shop By Concern > Pore Care,4.45,355.0,O3+,1582.25,4
+Men's Store > Gifts > Nykaa,4.44,12.0,Tommy Hilfiger,3487.4,5
+Natural > Shop By Concern > Hairfall,4.43,2570.0,Biotique,826.67,6
+Natural > Hair > Hair Oil,4.42,75.0,Greenberry Organics,289.5,4
+Personal Care > Body > Lotions > Creams,4.42,2320.0,Nivea,365.75,4
+Men's Store > Skin Care > Moisturizers,4.4,32.0,Garnier,79.0,1
+Personal Care > Hands > Feet > Hand Sanitizer,4.4,70.0,Godrej Protekt,25.0,1
+Skin > Masks > Masks > Peels,4.4,1157.0,Garnier,99.0,1
+Skin > Moisturizers > Face Oils,4.4,125.0,Kama Ayurveda,315.0,1
+Brand > L'Oreal Paris,4.4,328.0,L'Oreal Paris,269.5,2
+Skin > Sun Care > Body Sunscreen,4.4,294.0,Vaseline,135.0,1
+Natural > Makeup > Lip Balm > Gloss,4.4,612.0,Vaadi Herbals,48.0,1
+Skin > Eye Care > Dark Circles > Wrinkles,4.4,1907.0,Garnier,150.0,1
+Hair > Shop By Concern > Split Ends,4.4,1.0,SYNAA,109.0,1
+Natural > Skin > Moisturizer,4.4,26.0,Lotus Herbals,375.0,1
+Natural > Body Care > Oral Care,4.4,9.0,Close-Up,105.0,1
+Natural > Skin > Face Cream,4.4,0.0,Forest Essentials,2495.0,1
+Natural > Shop By Concern > Anti Aging,4.4,4.0,Pahadi Local,623.0,3
+Nykaa Luxe > Makeup > Face > Primer,4.4,217.0,Smashbox,1450.0,1
+Skin > Body Care > Lotions > Creams,4.39,2499.0,Vaseline,237.57,7
+Natural > Trending Searches > Tea Tree Oil,4.38,3006.0,Fabindia,153.25,4
+Makeup > Face > Compact,4.38,141.0,Miss Claire,747.5,4
+Makeup > Makeup Kits > Eye Palettes,4.35,154.0,theBalm,1237.0,2
+Personal Care > Bath > Shower > Shampoo,4.35,1815.0,AMAZON KERATIN,451.4,10
+Men's Store > Skin Care > Facewash,4.35,370.0,Cinthol,60.0,2
+Hair > Hair Care > Shampoo,4.35,270.0,L'Oreal Paris,107.5,2
+Skin > Body Care > Soaps,4.35,49.0,Liril,38.5,2
+Personal Care > Face > Facewash,4.34,2478.0,Nature's Essence,79.2,5
+Personal Care > Face > Moisturizer,4.33,1642.0,Nivea,255.5,6
+Makeup > Combos > Nykaa,4.32,594.0,Charlotte Tilbury,1530.5,6
+Makeup > Lips > Lipstick,4.32,13612.0,Lakme,976.62,21
+Brand > Nykaa Naturals,4.32,5039.0,Nykaa Naturals,277.0,4
+Hair > Shop By Concern > Dry > Frizzy Hair,4.32,92.0,CADIVEU,2274.75,4
+Nykaa Luxe > Brand > Kama Ayurveda,4.3,14.0,Kama Ayurveda,675.0,1
+Natural > Skin > Face Oils,4.3,1.0,MESMARA,290.5,2
+Fragrance > Women > Deodorants/Roll-Ons,4.3,124.0,Nykaa Naturals,209.0,1
+Makeup > Face > Loose Powder,4.3,13.0,Too Faced,2400.0,1
+Makeup > Lips > Lip Crayon,4.3,344.0,Faces Canada,494.0,1
+Nykaa Luxe > Skin > Face > Toner,4.3,115.0,Clinique,2350.0,1
+Makeup > New Launches,4.3,539.0,Nykaa Cosmetics,960.0,1
+Skin > Body Care > Massage Oils,4.3,58.0,Allin Exporters,899.25,4
+Makeup > Eyes > Eye Makeup Remover,4.3,3.0,Yves Rocher,580.0,1
+Skin > Moisturizers > Face Moisturizer > Day Cream,4.29,5972.0,Nivea,1125.83,12
+Hair > Shop By Concern > Color Protection,4.28,977.0,Himalaya,399.5,4
+Natural > Hair > Shampoo > Cleanser,4.28,294.0,Aveda,329.83,6
+Natural > Shop By Concern > Tan Removal,4.27,7503.0,Jovees,368.33,3
+Makeup > Face > Blush,4.26,4198.0,Biotique Natural Makeup,1054.53,15
+Makeup > Nails > Nail Polish,4.25,8291.0,LYN,257.42,12
+Natural > Shop By Concern > Pigmentation,4.25,1191.0,Biotique,275.75,4
+Natural > Skin > Cleanser,4.25,316.0,Vedic Line,137.0,2
+Men's Store > Hair Care > Shampoo,4.25,112.0,Vatika,132.5,2
+Brand > Lakme,4.23,15233.0,Lakme,517.33,6
+Natural > Makeup > Lipstick,4.23,147.0,Disguise Cosmetics,560.67,3
+Makeup > Eyes > Eye Brow Enhancers,4.23,35.0,Bobbi Brown,1830.0,3
+Brand > Himalaya,4.23,1473.0,Himalaya,84.33,6
+Makeup > Lips > Lip Balm,4.23,3454.0,Maybelline New York,181.33,3
+Hair > Hair Styling > Gels > Waxes,4.2,7.0,Gatsby,80.0,1
+Makeup > Tools > Brushes > Sponges > Applicators,4.2,1024.0,Nykaa Cosmetics,361.0,1
+Personal Care > Men's Grooming > Beard > Moustache Care,4.2,8.0,Beardhood,200.0,1
+Nykaa Luxe > Shop by Concern > Oil Control,4.2,49.0,Kama Ayurveda,1447.5,2
+Brand > VLCC,4.2,22.0,VLCC,112.0,1
+Nykaa Luxe > Skin > Face > Sunscreen,4.2,310.0,Forest Essentials,1595.0,1
+Nykaa Luxe > Makeup > Eyes > Mascara,4.2,165.0,M.A.C,1050.0,1
+NFBA 2020 Nominees Online Sale,4.2,1078.0,Bobbi Brown,2050.0,3
+Skin > Shop By Concern > Oil Control,4.2,35.0,Spawake,82.0,1
+Natural > Makeup > Foundation > Concealer,4.2,15.0,Lotus Make Up,591.0,1
+Skin > Kits > Combos > Facial Kits,4.2,19.0,Olivia,80.0,1
+Brand > Biotique,4.2,8800.0,Biotique,65.67,3
+Skin > Kits > Combos > Combos > Nykaa,4.2,4.0,Olivia,80.0,1
+Natural > Skin > Face Wash,4.2,8.0,Lotus Herbals,140.0,1
+Makeup > Face > Contour,4.2,62.0,ETUDE HOUSE,462.5,2
+Makeup > Lips > Liquid Lipstick,4.19,7619.0,Lime Crime,1116.5,14
+Skin > Shop By Concern > Skin Dryness,4.19,11330.0,Clinique,406.44,9
+Natural > Types of Skin > Normal Skin,4.15,115.0,Just Herbs,126.17,6
+Makeup > Eyes > Under Eye Concealer,4.15,1370.0,PAC,1133.8,10
+Natural > Shop By Concern > Skin Lightening,4.15,89.0,Vaadi Herbals,137.0,2
+Makeup > Lips > Lip Gloss,4.13,400.0,Lime Crime,1266.67,3
+Makeup > Makeup Kits > Customize Your Palette,4.13,47.0,Stars Cosmetics,553.67,3
+Natural > Types of Skin > Combination Skin,4.13,113.0,Nykaa Naturals,129.5,6
+Makeup > Face > Foundation,4.12,3399.0,The Body Shop,921.5,12
+Hair > Hair Styling > Hair Color,4.1,97.0,BBlunt,76.0,1
+Health > Wellness > Sexual Wellness > Condoms,4.1,1.0,KamaSutra,40.0,1
+Makeup > Face > Face Primer,4.1,13.0,Max Factor,1199.0,1
+Skin > Moisturizers > Serums > Essence,4.1,51.0,The Moms Co.,249.0,1
+Hair > Shop By Hair Type > Curly > Wavy,4.1,45.0,WOW,239.0,1
+Mom > Baby > Kids Care > Kids Makeup,4.1,44.0,Disney,100.0,1
+Natural > Combos > Nykaa,4.1,6.0,The Body Care,161.0,1
+Personal Care > Hands > Feet > Hand Creams,4.1,564.0,L'Occitane,417.5,2
+Nykaa Luxe > Makeup > Nails > Nail Polish,4.1,7.0,Ciat London,1300.0,1
+Natural > Shop By Concern > Acne Treatment,4.1,493.0,HealthVit,229.33,3
+Makeup > Eyes > Eye Shadow,4.08,570.0,L'Oreal Paris,475.75,4
+Makeup > Face > Highlighters,4.08,1471.0,Makeup Revolution,1104.67,9
+Natural > Types of Skin > Oily Skin,4.08,510.0,Allin Exporters,256.33,6
+Skin > Shop By Concern > Skin Brightening,4.07,2603.0,Beeone,529.83,6
+Makeup > Tools & Brushes > Makeup Pouches,4.03,0.0,Organice,1443.0,3
+Makeup > Face > Concealer,4.01,191.0,Smashbox,1087.86,7
+Makeup > Makeup Kits > Face Palettes,4.0,1391.0,Provoc,1133.33,3
+Mom > Baby > Health > Safety > Detergents > Cleansers,4.0,4.0,Himalaya,295.0,1
+Natural > Skin > Under Eye Care,4.0,1.0,Ohria Ayurveda,1310.0,1
+Natural > Skin > Sunscreen,4.0,971.0,Aroma Magic,210.0,1
+Men's Store > Wellness > Sexual Wellness,4.0,3.0,Durex,180.0,1
+Natural > Body Care > Hands and Feet Care,4.0,40.0,Moha,105.0,1
+Natural > Trending Searches > Peppermint Oil,4.0,3485.0,Biotique,51.0,1
+Personal Care > Bath > Shower > Conditioner,3.93,209.0,Garnier,130.0,3
+Skin > Shop By Concern > Sun Protection,3.9,4.0,The Body Care,89.0,1
+Skin > Moisturizers > Night Cream,3.9,8.0,Forest Essentials,2050.0,1
+Skin > Toners > Toners > Mists,3.9,22.0,Glamglow,1400.0,1
+Makeup > Lips > Lip Liner,3.9,5.0,Charlotte Tilbury,2200.0,1
+Makeup > Eyes > Kajal,3.9,4.0,DIOR,1299.5,2
+Hair > Hair Care > Conditioner,3.9,15.0,Coco Soul,719.0,1
+Mom > Baby > Maternity Wear > Maternity Bra,3.9,0.0,Floret,1001.67,3
+Makeup > Eyes > Eyeliner,3.88,648.0,Colorbar,601.2,5
+Natural > Types of Skin > Dry Skin,3.86,748.0,Nykaa Naturals,322.86,7
+Natural > Shop By Concern > Dandruff,3.8,0.0,Fabindia,350.0,1
+Makeup > Tools > Brushes > Makeup Pouches,3.8,1009.0,Nykaa Cosmetics,270.0,1
+Makeup > Lips > Lip Stain,3.75,975.0,Nykaa Cosmetics,719.0,2
+Fragrance > Women > Perfumes (EDT > EDP),3.7,348.0,Nykaa Cosmetics,1850.0,2
+Skin > Moisturizers > BB > CC Cream,3.7,19.0,Clinique,3850.0,1
+Hair > Hair Care > Hair Creams > Masks,3.65,86.0,Berina,1077.5,2
+Makeup > Face > Bronzer,3.58,137.0,Kiko Milano,1884.75,4
+Health > Wellness > Good for You > Super Food,3.5,0.0,True Elements,375.5,2
+Appliances > Hair Styling Tools > Curling Irons > Stylers,3.5,0.0,Corioliss,5999.0,1
+Natural > Makeup > Eyeliner,3.4,40.0,K-Veda,175.0,1
+Skin > Cleansers > Cleanser,3.2,1.0,Olivia,260.0,1
+Natural > Aromatherapy > Essential Oils,3.0,0.0,MESMARA,349.0,1
+Personal Care > Hands > Feet > Handwash,3.0,2.0,Organic Harvest,115.0,1
+Makeup > Gifts > Nykaa,2.9,0.0,Nykaa Cosmetics,1799.0,1
+Fragrance > Women > Body Mist/Spray,2.0,0.0,First Water,269.0,1
+Personal Care > Body > Deodorants/Roll-Ons,1.0,0.0,Ellement Co.,325.0,1
